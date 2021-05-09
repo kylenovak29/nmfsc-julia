@@ -1,2 +1,6 @@
+[deps]
+LinearAlgebra
+Plots
+
 [compat]
 julia = "1.5"
